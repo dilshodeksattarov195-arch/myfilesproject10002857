@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcelete",
+        "uuid": 8930982,
+        "checksum": "pymbd4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
